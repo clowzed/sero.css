@@ -7,7 +7,7 @@ A classless CSS framework.
 )
 # [`Dark demo page`](https://clowzed.github.io/)
 
-# [Light demo page](https://clowzed.github.io/light.html)
+# [`Light demo page`](https://clowzed.github.io/light.html)
 
 
 
