@@ -27,6 +27,11 @@ src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.9.0/highlight.min.js
 <script> hljs.highlightAll(); <script>
 ```
 
+I also recommend using PT Mono font.
+```html
+<link href="https://fonts.googleapis.com/css?family=PT Mono" rel="stylesheet">
+```
+
 #### Dark version
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/clowzed/sero.css@master/source/dark.css">
