@@ -731,3 +731,7 @@ body>footer {
         text-decoration: underline
     }
 }
+
+button>a {
+    color: var(--primary)
+}
